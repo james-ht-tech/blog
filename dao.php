@@ -1,6 +1,6 @@
 <?php
 
-echo "test";
+echo "hello from asadi";
 class DAO
 {
     private $host = "127.0.0.1";
